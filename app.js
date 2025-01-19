@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const profileData = {
-         name: "Alexander Gomez",
-        subtitle: "Don't overthink it, just do it",
+         name: "Janette Ramirez",
+        subtitle: "whatever you want to happen will happen",
         links: [
             {
                 text: "Portfolio Web",
@@ -10,17 +10,17 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             {
                 text: "LinkedIn",
-                url: "https://pe.linkedin.com/in/marcello-alexander-gomez-gomez-130587268",
+                url: "https://www.linkedin.com/in/janette-ramirez-ulloa-transformacion-digital/",
                 bgImage: "./img/CajaDesing.png"
             },
             {
                 text: "Youtube",
-                url: "https://www.youtube.com/@xandev008",
+                url: "https://www.youtube.com/@janetterm8016",
                 bgImage: "./img/CajaDesing.png"
             },
             {
                 text: "Github",
-                url: "https://github.com/AlexanderG8",
+                url: "https://github.com/Janette-Ramirez-Ulloa",
                 bgImage: "./img/CajaDesing.png"
             }
         ]
