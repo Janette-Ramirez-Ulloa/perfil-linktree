@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const profileData = {
-        name: "Alexander Gomez",
+         name: "Alexander Gomez",
         subtitle: "Don't overthink it, just do it",
         links: [
             {
