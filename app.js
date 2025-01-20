@@ -6,22 +6,22 @@ document.addEventListener("DOMContentLoaded", function () {
             {
                 text: "Portfolio Web",
                 url: "https://alexandergomez.netlify.app/",
-                bgImage: "./img/CajaDesing.png"
+                bgImage: "./image/CajaDesing.png"
             },
             {
                 text: "LinkedIn",
                 url: "https://www.linkedin.com/in/janette-ramirez-ulloa-transformacion-digital/",
-                bgImage: "./img/CajaDesing.png"
+                bgImage: "./image/CajaDesing.png"
             },
             {
                 text: "Youtube",
                 url: "https://www.youtube.com/@janetterm8016",
-                bgImage: "./img/CajaDesing.png"
+                bgImage: "./image/CajaDesing.png"
             },
             {
                 text: "Github",
                 url: "https://github.com/Janette-Ramirez-Ulloa",
-                bgImage: "./img/CajaDesing.png"
+                bgImage: "./image/CajaDesing.png"
             }
         ]
     };
