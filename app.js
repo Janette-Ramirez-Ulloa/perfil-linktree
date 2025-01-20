@@ -4,11 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
         subtitle: "whatever you want to happen will happen",
         links: [
             {
-                text: "Portfolio Web",
-                url: "https://alexandergomez.netlify.app/",
-                bgImage: "./image/CajaDesing.png"
-            },
-            {
                 text: "LinkedIn",
                 url: "https://www.linkedin.com/in/janette-ramirez-ulloa-transformacion-digital/",
                 bgImage: "./image/CajaDesing.png"
@@ -21,6 +16,11 @@ document.addEventListener("DOMContentLoaded", function () {
             {
                 text: "Github",
                 url: "https://github.com/Janette-Ramirez-Ulloa",
+                bgImage: "./image/CajaDesing.png"
+            },
+            {
+                text: "X, antes Twitter",
+                url: "https://x.com/janettemru?t=WKmhKnaS0OJ3b2GCiRBifg&s=09",
                 bgImage: "./image/CajaDesing.png"
             }
         ]
